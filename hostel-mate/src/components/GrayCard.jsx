@@ -6,33 +6,33 @@ const GrayCard = () => {
     
     {
       color:"#f3f3f3",
-      images:["../../public/cards/Illustration.png"],
+      images:["/cards/Illustration.png"],
       text:"Search engine optimization",
       
     },
     {
       color:"#B9FF66",
-      images:["../../public/cards/tokyo-selecting-a-value-in-the-browser-window 1.png"],
+      images:["/cards/tokyo-selecting-a-value-in-the-browser-window 1.png"],
       text:"Pay-per-click advertising"
     },
     {
       color:"black",
-      images:["../../public/cards/tokyo-volumetric-analytics-of-different-types-in-web-browsers 2.png"],
+      images:["/cards/tokyo-volumetric-analytics-of-different-types-in-web-browsers 2.png"],
       text:"Social media marketing"
     },
     {
       color:"#f3f3f3",
-      images:["../../public/cards/tokyo-sending-messages-from-one-place-to-another 1.png"],
+      images:["/cards/tokyo-sending-messages-from-one-place-to-another 1.png"],
       text:"Email Marketing"
     },
     {
       color:"#B9FF66",
-      images:["../../public/cards/Illustration-2.png"],
+      images:["/cards/Illustration-2.png"],
       text:"Content Creation"
     },
     {
       color:"black",
-      images:["../../public/cards/tokyo-volumetric-analytics-of-different-types-in-web-browsers 2.png"],
+      images:["/cards/tokyo-volumetric-analytics-of-different-types-in-web-browsers 2.png"],
       text:"Analytics and Tracking"
     }
 

@@ -9,7 +9,7 @@ const BlackCard = () => {
       <h2 ><mark style={{backgroundColor:"white"}}> Search engine optimization</mark></h2>
       <div style={{display:"flex",alignItems:"center",gap:"10px",color:"white"}}> <ArrowUpRight style={{backgroundColor:"white",color:"black",borderRadius:"20px"}} />learn more</div>
     </div>
-    <img src="../../public/cards/Illustration-1.png" alt="" />
+    <img src="/cards/Illustration-1.png" alt="" />
     </div>
     </>
   );

@@ -17,7 +17,7 @@ function Navbar() {
         alignItems: "center"
       }}>
       <h2 className="logo" style={{ display: "flex", alignItems: "center" }}>
-        <img src="../../public/Icon.png" alt="Icon" />Positivus
+        <img src="/Icon.png" alt="Icon" />Positivus
       </h2>
       <div style={{ display: "flex", gap: "20px", alignItems: "center" }}>
         {links.map(link =>

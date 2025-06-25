@@ -17,7 +17,7 @@ const Footer = () => {
       <div className="footer-header">
         {/* Logo */}
         <div className="footer-logo">
-          <img src="../../public/Vector.png" alt="" />
+          <img src="/Vector.png" alt="" />
           <span className="logo-text">Positivus</span>
         </div>
 

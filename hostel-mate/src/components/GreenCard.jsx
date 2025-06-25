@@ -10,7 +10,7 @@ const GreenCard = () => {
       <h2 ><mark style={{backgroundColor:"white"}}> Search engine optimization</mark></h2>
       <div style={{display:"flex",alignItems:"center",gap:"10px"}}> <ArrowUpRight style={{backgroundColor:"black",color:"#B9FF66",borderRadius:"20px"}} />learn more</div>
     </div>
-    <img src="../../public/cards/tokyo-selecting-a-value-in-the-browser-window 1.png" alt="" />
+    <img src="/cards/tokyo-selecting-a-value-in-the-browser-window 1.png" alt="" />
     </div>
     </>
   )

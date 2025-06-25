@@ -33,7 +33,7 @@ const Herosection = () => {
       <div>
         <img
           style={{ height: "400px" }}
-          src="../../public/Illustration.png"
+          src="/Illustration.png"
           alt="illustration"
         />
       </div>

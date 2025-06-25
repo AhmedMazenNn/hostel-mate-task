@@ -10,7 +10,6 @@ const LetsMake = () => {
         width: "80%",
       }}
     >
-      {/* Text Content on the Left */}
       <div style={{ flex: "1 1 50%", padding: "20px" }}>
         <h2 className="mb-3">Let’s make things happen</h2>
         <p className="mb-4">
@@ -31,7 +30,6 @@ const LetsMake = () => {
         </button>
       </div>
 
-      {/* Image on the Right */}
       <div style={{ flex: "1 1 40%", padding: "20px" }}>
         <img
           src="/Letsmake.png"

@@ -11,12 +11,12 @@ const Companies = () => {
         justifyContent: "center",
         gap: "128px"
       }}>
-      <img src="../../public/companies/Company logo.png" alt="" />
-      <img src="../../public/companies/Company logo-1.png" alt="" />
-      <img src="../../public/companies/Company logo-2.png" alt="" />
-      <img src="../../public/companies/Company logo-3.png" alt="" />
-      <img src="../../public/companies/Company logo-4.png" alt="" />
-      <img src="../../public/companies/Company logo-5.png" alt="" />
+      <img src="/companies/Company logo.png" alt="" />
+      <img src="/companies/Company logo-1.png" alt="" />
+      <img src="/companies/Company logo-2.png" alt="" />
+      <img src="/companies/Company logo-3.png" alt="" />
+      <img src="/companies/Company logo-4.png" alt="" />
+      <img src="/companies/Company logo-5.png" alt="" />
 
     </div>
     {/* <div style={{display:"flex",justifyContent:"center", alignItems:"center", gap:"20px",position:"absolute",top:"200%",right:"37%"}}>
